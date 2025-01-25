@@ -1,17 +1,16 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 10px;
-    text-align: center;
-  }
-  button {
-    background-color: #0078d7;
-    color: white;
-    border: none;
-    padding: 10px;
-    cursor: pointer;
-  }
-  button:hover {
-    background-color: #005a9e;
-  }
-  
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 10px;
+  text-align: center;
+  width: 300px; /* Set a width */
+}
+#about {
+  text-align: left;
+  font-size: 14px;
+}
+
+#about p {
+  margin: 0;
+  line-height: 1.5;
+}
